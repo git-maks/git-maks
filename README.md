@@ -1,71 +1,55 @@
 <div align="center">
+  <h1>Hi, I'm Maks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<!-- Header & Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=I+create+technologies+that+drive+businesses+forward;I+am+a+Researcher;Passionate+about+AI+in+Decision+Making;Advocate+for+Technological+Freedom+%26+Security" alt="Typing SVG" />
+  </a>
 
-<h1>Hi, I'm Maks! <img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <p>
+    I create tools to support professionals across different fields, focusing on <b>AI decision-making systems</b>.<br>
+    I am deeply committed to <b>technological freedom</b>, <b>security</b>, and the <b>Open Source</b> philosophy.
+  </p>
 
-<a href="https://www.google.com/search?q=https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D2F81F7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DI%2Bcreate%2Btechnologies%2Bthat%2Bdrive%2Bbusinesses%2Bforward%3BI%2Bam%2Ba%2BResearcher%3BPassionate%2Babout%2BAI%2Bin%2BDecision%2BMaking%3BAdvocate%2Bfor%2BTechnological%2BFreedom%2B%2526%2BSecurity" alt="Typing SVG" />
-</a>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/maks-koziel" target="_blank">
+      <img src="./icons/linkedin.svg" height="40" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="mailto:maks.koziel@outlook.com" target="_blank">
+      <img src="./icons/mail.svg" height="40" alt="Email" />
+    </a>
+  </div>
 
-<!-- About Me Section -->
+  <br>
+  <hr style="border: 1px solid #30363d;" />
+  <br>
 
-<p align="center">
-I create tools to support professionals across different fields, focusing on <b>AI decision-making systems</b>. 
+  <h3>
+    <img src="./icons/gear.svg" height="24" valign="bottom" alt="Gear" />
+    Languages & Tools
+  </h3>
 
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,r,go,kotlin,dotnet,js,html,css,react,vue,tailwind&perline=11&theme=dark" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=nodejs,bun,flask,fastapi,tensorflow,pytorch,opencv,d3,mysql,mongo,wordpress&perline=11&theme=dark" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,arduino,figma,vscode,latex,md,regex&perline=11&theme=dark" />
+    </a>
+  </p>
 
+  <br>
+  <hr style="border: 1px solid #30363d;" />
+  <br>
 
+  <h3>
+    <img src="./icons/stats.svg" height="24" valign="bottom" alt="Stats" />
+    My GitHub Stats
+  </h3>
 
-I am deeply committed to <b>technological freedom</b>, <b>security</b>, and the <b>Open Source</b> philosophy.
-</p>
-
-</div>
-
-<!-- Badges / Contact Info -->
-
-<div align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/maks-koziel" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
-</a>
-<a href="mailto:maks.koziel@outlook.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Outlook-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftoutlook%26logoColor%3Dwhite" alt="Outlook Badge"/>
-</a>
-</div>
-
-<!-- Tech Stack Section -->
-
-<h3 align="center">🛠 Languages & Tools</h3>
-<div align="center">
-<a href="https://www.google.com/search?q=https://skillicons.dev">
-<!-- Note: mapped 'sql' to 'mysql' for the icon display -->
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,js,go,html,css,mysql,mongo,nodejs,aws,docker,linux,tailwind,bun,vue,react%26theme%3Ddark" />
-</a>
-</div>
-
-<!-- Stats Section -->
-
-<h3 align="center">📊 My GitHub Stats</h3>
-
-<div align="center">
-
-<!-- Streak Stats (Left) -->
-
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dgit-maks%26theme%3Ddark%26hide_border%3Dtrue%26stroke%3D0000%26background%3D0D1117%26ring%3D2F81F7%26fire%3D2F81F7%26currStreakNum%3D2F81F7" alt="GitHub Streak" />
-
-
-
-
-
-<!-- General Stats (Center) -->
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dgit-maks%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D2F81F7%26icon_color%3D2F81F7" alt="GitHub Stats" />
-
-
-
-
-
-<!-- Top Languages (Bottom) -->
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dgit-maks%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D2F81F7" alt="Top Languages" />
-
+  <div align="center">
+    <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=git-maks&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&langs_count=8" height="165" alt="Top Languages" />
+    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=git-maks&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&include_all_commits=true&hide_rank=true" height="165" alt="GitHub Stats" />
+  </div>
 </div>
